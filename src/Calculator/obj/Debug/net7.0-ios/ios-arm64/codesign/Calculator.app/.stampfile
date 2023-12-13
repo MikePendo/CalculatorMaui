@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign 6068DB4304FA520C358617CE74EB97567AC5412B --entitlements /Users/michael.rozenblat/Desktop/xamarin/maui-samples/8.0/Apps/Calculator/src/Calculator/obj/Debug/net7.0-ios/ios-arm64/Entitlements.xcent /Users/michael.rozenblat/Desktop/xamarin/maui-samples/8.0/Apps/Calculator/src/Calculator/bin/Debug/net7.0-ios/ios-arm64/Calculator.app

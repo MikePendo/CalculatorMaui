@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="Calculator.app">
+      <CodesignSigningKey>6068DB4304FA520C358617CE74EB97567AC5412B</CodesignSigningKey>
+      <CodesignEntitlements>/Users/michael.rozenblat/Desktop/xamarin/maui-samples/8.0/Apps/Calculator/src/Calculator/obj/Debug/net7.0-ios/ios-arm64/Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>/Applications/Xcode-14.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>/Users/michael.rozenblat/Desktop/xamarin/maui-samples/8.0/Apps/Calculator/src/Calculator</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

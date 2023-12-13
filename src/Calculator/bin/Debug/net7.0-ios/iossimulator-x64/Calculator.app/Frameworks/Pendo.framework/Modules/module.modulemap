@@ -1,0 +1,11 @@
+framework module Pendo {
+  umbrella header "Pendo.h"
+
+  export *
+  module * { export * }
+}
+
+module Pendo.Swift {
+  header "Pendo-Swift.h"
+  requires objc
+}

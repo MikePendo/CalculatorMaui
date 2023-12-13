@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPCd4pEEbAF0jWSal3myuY/9yvO+Awjya4HmY0pbyDRdHN0XxrgQ3Wzq5RsjYSqd7z5zZxCxkDVwI8df0yDsdA==",
+  "success": true,
+  "projectFilePath": "/Users/michael.rozenblat/Desktop/Calculator/src/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/microsoft.maui.graphics/7.0.101/microsoft.maui.graphics.7.0.101.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/pendo-maui/3.0.0.7965/pendo-maui.3.0.0.7965.nupkg.sha512",
+    "/Users/michael.rozenblat/.nuget/packages/pendo-maui-binding-ios/3.0.0.7964/pendo-maui-binding-ios.3.0.0.7964.nupkg.sha512"
+  ],
+  "logs": []
+}
